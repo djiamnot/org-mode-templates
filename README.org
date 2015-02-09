@@ -1,0 +1,2 @@
+* A collection of templates for documents
+I use mostly org-mode for writing various documents, articles, letters, lists of things, documentation etc. Sometimes having some kind of a template readily accessible is just quicker than anything else.
